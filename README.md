@@ -1,5 +1,33 @@
 ### Hi there 👋
 
+# I'm Krishna Ramadas
+
+📖 I finished PG certificate course in Advanced Machine Learning and cloud from Indian Institute of Technology, Madras
+🔭 I’m currently working as a Data Science Intern at iNeuron.ai
+👯 I’m looking forward to build my career as a Data Scientist
+📫 Reach me: krishnarajivnair@gmail.com
+
+## Languages and Tools:
+
+* Python * Machine Learning
+* MySQL * Statistics
+* Flask * Amazon Web Services (AWS)
+
+
+## Github Stats
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=krishnaramadas&show_icons=true&count_private=true" align="center" /></div>  
+
+<br/>  
+
+## Connect with me:
+
+[<img align="left" alt="LinkedIn" width="30px" src="https://github.com/mvram123/mvram123/blob/main/Logos/linkedin.png" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/krishna-ramadas-0807121b0/
+
+<br />
+
 <!--
 **krishnaramadas/krishnaramadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
