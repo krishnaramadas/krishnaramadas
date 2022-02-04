@@ -24,7 +24,7 @@
 <br/>  
 
 ## Connect with me:
- ##LinkedIn : 
+ ### LinkedIn 
 [<img align="left" alt="LinkedIn" width="30px" src="https://github.com/mvram123/mvram123/blob/main/Logos/linkedin.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/krishna-ramadas-0807121b0/
