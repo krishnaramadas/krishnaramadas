@@ -12,9 +12,12 @@
 
 ## Languages and Tools:
 
-* Python * Machine Learning
-* MySQL * Statistics
-* Flask * Amazon Web Services (AWS)
+* Python 
+* MySQL 
+* Statistics
+* Machine Learning
+* Flask 
+* Amazon Web Services (AWS)
 
 
 ## Github Stats
