@@ -6,7 +6,7 @@
 
 🔭 I’m currently working as a Data Engineering Intern at DataGrokr
 
-👯 I’m looking forward to build my career as a Data Scientist
+👯 I’m looking forward to build my career in Data Science and related fields
 
 📫 Reach me: krishnarajivnair@gmail.com
 
