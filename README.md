@@ -4,7 +4,7 @@
 
 📖 I finished PG certificate course in Advanced Machine Learning and cloud from Indian Institute of Technology, Madras
 
-🔭 I’m currently working as a Data Engineering Intern at DataGrokr
+🔭 I’m currently working as a Data Engineering at DataGrokr Analytics Pvt Ltd
 
 👯 I’m looking forward to build my career in Data Science and related fields
 
