@@ -2,9 +2,9 @@
 
 # I'm Krishna Ramadas
 
-📖 I hold a Postgraduate Certificate in Advanced Machine Learning and Cloud from the Indian Institute of Technology, Madras.
-
 💼 I currently work as a **Data Engineer** at DataGrokr Analytics Pvt Ltd, focusing on data engineering, cloud technologies, and cost optimization.
+
+📖 I hold a Postgraduate Certificate in Advanced Machine Learning and Cloud from the Indian Institute of Technology, Madras.
 
 👯 I am passionate about growing my career in Data Science, Cloud Engineering, and Data Analytics.
 
