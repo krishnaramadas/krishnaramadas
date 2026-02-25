@@ -52,16 +52,8 @@ Senior Data Engineer with **4+ years** of experience architecting production-gra
 
 ## 🧠 Skill Depth
 
-```text
-Data Engineering & Pipelines   ████████████████████░░   Senior
-SQL & BigQuery                 ████████████████████░░   Senior
-Snowflake                      ████████████████████░░   Senior
-Python                         ████████████████░░░░░░   Advanced
-GCP (Composer, Dataflow, GCS)  ████████████████░░░░░░   Advanced
-DataOps & Incident Management  ████████████████████░░   Senior
-GenAI / LLM Integration        ████████████░░░░░░░░░░   Actively Growing 🚀
-MCP Servers                    ████████░░░░░░░░░░░░░░   Building Now 🚀
-```
+<img width="640" height="480" alt="ChatGPT Image Feb 25, 2026, 10_59_34 PM" src="https://github.com/user-attachments/assets/af74f0e3-d3f3-4e52-8368-a6aeed2a52e4" />
+
 
 ---
 
