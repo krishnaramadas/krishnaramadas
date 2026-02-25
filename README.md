@@ -1,68 +1,74 @@
 ### Hi there 👋
-
 # I'm Krishna Ramadas
 
-💼 I currently work as a **Data Engineer** at DataGrokr Analytics Pvt Ltd, focusing on data engineering, cloud technologies, and cost optimization.
+💼 Data Engineer at **DataGrokr Analytics Pvt Ltd**, Bangalore — specialising in cloud-native data pipelines, Snowflake, GCP, and cost optimisation.
 
-📖 I hold a Postgraduate Certificate in Advanced Machine Learning and Cloud from the Indian Institute of Technology, Madras.
+📖 Postgraduate Certificate in **Advanced Machine Learning & Cloud** — Indian Institute of Technology, Madras.
 
-👯 I am passionate about growing my career in Data Science, Cloud Engineering, and Data Analytics.
+🚀 Passionate about building intelligent data systems that go beyond pipelines — where **Data Engineering meets AI**.
 
 📫 Reach me at: krishnarajivnair@gmail.com
 
-## Skills & Tools
+---
 
-* Python (Data Engineering, Scripting, Analytics)  
-* SQL (BigQuery, Teradata, Snowflake)  
-* Google Cloud Platform (BigQuery, Cloud Composer / Airflow, Cloud Storage, IAM)  
-* Snowflake (Cost Optimization, Data Operations)  
-* Power BI (Data Visualization)  
-* Machine Learning (Advanced concepts & implementation)  
-* Flask (Web APIs)  
-* Linux & Shell Scripting  
-* Statistics & Data Analytics  
+## 🔨 Currently Building
 
-## Certifications
+| Project | Description | Stack |
+|---|---|---|
+| 🐉 **DRACO** | DataOps Response And Cost Operations — a Snowflake-native AI assistant for incident response, runbook lookup, and cost intelligence | Snowflake Cortex, Cortex Search, Streamlit in Snowflake |
+| 🎯 **CIRA** | Cost Intelligence Response Assistant — conversational GCP cost intelligence with anomaly detection and spend forecasting | GCP Billing API, MCP Server, Python, Streamlit |
 
-- **Google Cloud Associate Cloud Engineer** (Nov 2023 – Nov 2026)  
-- **Introduction to Generative AI** — Google (Mar 2024)  
-- **Introduction to Large Language Models** — Google (Mar 2024)  
-- **Microsoft Certified: Azure Data Fundamentals** (Jan 2023)  
-- **Snowflake Hands-On Essentials – Data Applications** (Jul 2022)  
-- **Snowflake Hands-On Essentials – Data Warehouse** (Jun 2022)  
-- **AWS Partner Accreditations: Business, Cloud Economics, Technical** (Apr-May 2022)  
-- **IBM Data Science Specialization** — Coursera (Nov 2019)  
-- **Databricks Lakehouse Fundamentals** (May 2023, Expired May 2024)  
+---
 
-## Github Stats
+## 🛠️ Skills & Tools
+
+**Data Engineering**
+`Python` `SQL` `Snowflake` `BigQuery` `Teradata` `dbt` `Apache Airflow` `Cloud Composer`
+
+**Cloud**
+`Google Cloud Platform` `Snowflake` `Azure` `AWS`
+
+**GCP Services**
+`BigQuery` `Cloud Composer / Airflow` `Dataflow` `Cloud Storage` `IAM` `Secret Manager`
+
+**Snowflake**
+`Snowpipe` `Streams & Tasks` `Stored Procedures` `Cortex AI` `Cost Optimisation` `Data Operations`
+
+**AI / ML**
+`Machine Learning` `LLMs` `RAG` `Snowflake Cortex` `MCP Servers` `Gemini API`
+
+**Other**
+`Power BI` `Flask` `Linux & Shell Scripting` `Statistics & Data Analytics`
+
+---
+
+## 🏅 Certifications
+
+| Certification | Issuer | Date |
+|---|---|---|
+| ☁️ Associate Cloud Engineer | Google Cloud | Nov 2023 – Nov 2026 |
+| 🤖 Introduction to Generative AI | Google | Mar 2024 |
+| 🧠 Introduction to Large Language Models | Google | Mar 2024 |
+| 📊 Azure Data Fundamentals | Microsoft | Jan 2023 |
+| ❄️ Hands-On Essentials – Data Applications | Snowflake | Jul 2022 |
+| ❄️ Hands-On Essentials – Data Warehouse | Snowflake | Jun 2022 |
+| ☁️ AWS Partner Accreditations (Business, Technical, Cloud Economics) | AWS | Apr–May 2022 |
+| 📈 IBM Data Science Specialization | Coursera | Nov 2019 |
+| 🏗️ Lakehouse Fundamentals | Databricks | May 2023 |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnaramadas&show_icons=true&count_private=true&theme=radical" alt="Krishna Ramadas GitHub Stats" />
-</div>  
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnaramadas&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="Krishna's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaramadas&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
-<br/>  
+---
 
-## Connect with me:
+## 🤝 Connect with me
 
-### LinkedIn  
-[<img align="left" alt="LinkedIn" width="30px" src="https://github.com/mvram123/mvram123/blob/main/Logos/linkedin.png" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/krishna-ramadas-0807121b0/
-
-<br />
-
-
-<!--
-**krishnaramadas/krishnaramadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna%20Ramadas-blue?logo=linkedin)](https://www.linkedin.com/in/krishna-ramadas-0807121b0/)
+[![Email](https://img.shields.io/badge/Email-krishnarajivnair@gmail.com-red?logo=gmail)](mailto:krishnarajivnair@gmail.com)
