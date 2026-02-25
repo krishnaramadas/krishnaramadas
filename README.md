@@ -1,74 +1,97 @@
-### Hi there 👋
-# I'm Krishna Ramadas
+# Krishna Ramadas
+### Senior Data Engineer · GCP · Snowflake · DataOps · GenAI Integration
 
-💼 Data Engineer at **DataGrokr Analytics Pvt Ltd**, Bangalore — specialising in cloud-native data pipelines, Snowflake, GCP, and cost optimisation.
+> Building AI-powered data systems that go beyond pipelines — where **Data Engineering meets Intelligence**.
 
-📖 Postgraduate Certificate in **Advanced Machine Learning & Cloud** — Indian Institute of Technology, Madras.
+📍 Bengaluru, India &nbsp;|&nbsp; 📧 krishnarajivnair@gmail.com &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-ramadas-0807121b0/)
 
-🚀 Passionate about building intelligent data systems that go beyond pipelines — where **Data Engineering meets AI**.
+---
 
-📫 Reach me at: krishnarajivnair@gmail.com
+## 👤 About Me
+
+Senior Data Engineer with **4+ years** of experience architecting production-grade data pipelines, DataOps monitoring frameworks, and cloud cost optimisation solutions on **GCP and Snowflake** — for a **Fortune 500 grocery retailer (Albertsons Companies)**.
+
+- 💰 Delivered **$250K+ in annualised cost savings** through Snowflake optimisation (GrokStar Award Q3 2023)
+- 📉 Reduced production incidents by **~80%** via standardised DAG monitoring across 2,000+ DAGs and 1,000+ Dataflow pipelines
+- 🤖 Architected **DoRRA** — a GenAI-powered DataOps assistant using Gemini & Vertex AI — enabling natural-language incident querying and accelerating L1/L2 resolution
+- 🚀 Offshore **Release Manager** with zero rollback incidents across all Snowflake production deployments
+- 👥 Mentor to 4+ engineers | Interview Panelist | Learning Coordinator
 
 ---
 
 ## 🔨 Currently Building
 
-| Project | Description | Stack |
+| Project | What it is | Stack |
 |---|---|---|
-| 🐉 **DRACO** | DataOps Response And Cost Operations — a Snowflake-native AI assistant for incident response, runbook lookup, and cost intelligence | Snowflake Cortex, Cortex Search, Streamlit in Snowflake |
-| 🎯 **CIRA** | Cost Intelligence Response Assistant — conversational GCP cost intelligence with anomaly detection and spend forecasting | GCP Billing API, MCP Server, Python, Streamlit |
+| 🐉 **DRACO** | Snowflake-native DataOps + Cost Intelligence platform — AI assistant for incident response, runbook lookup, and spend visibility | Snowflake Cortex, Cortex Search, Streamlit in Snowflake |
+| 🎯 **CIRA** | GCP Cost Intelligence Response Assistant — live API-driven cost analysis with anomaly detection and month-end forecasting | GCP Billing API, MCP Server, Python, Streamlit |
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Core Stack
 
-**Data Engineering**
-`Python` `SQL` `Snowflake` `BigQuery` `Teradata` `dbt` `Apache Airflow` `Cloud Composer`
+**Data Engineering & Pipelines**
+`Python` `SQL` `BigQuery` `Snowflake` `Dataflow` `Airflow / Cloud Composer` `Pub/Sub` `Kafka` `dbt`
 
-**Cloud**
+**Cloud Platforms**
 `Google Cloud Platform` `Snowflake` `Azure` `AWS`
 
-**GCP Services**
-`BigQuery` `Cloud Composer / Airflow` `Dataflow` `Cloud Storage` `IAM` `Secret Manager`
+**DataOps & Observability**
+`DAG Monitoring` `Pipeline Observability` `Incident Management` `RCA` `ServiceNow` `Protegrity`
 
-**Snowflake**
-`Snowpipe` `Streams & Tasks` `Stored Procedures` `Cortex AI` `Cost Optimisation` `Data Operations`
+**Snowflake Expertise**
+`Snowpipe` `Streams & Tasks` `SCD Type 1 & 2` `Stored Procedures` `Cost Optimisation` `Query Optimisation` `Clustering Strategy`
 
-**AI / ML**
-`Machine Learning` `LLMs` `RAG` `Snowflake Cortex` `MCP Servers` `Gemini API`
+**GenAI & ML**
+`Vertex AI` `Gemini` `LLM Integration` `RAG` `Snowflake Cortex` `MCP Servers` `Prompt Engineering`
 
 **Other**
-`Power BI` `Flask` `Linux & Shell Scripting` `Statistics & Data Analytics`
+`Power BI` `Flask` `Linux & Shell Scripting` `CI/CD` `Schema Evolution` `Data Governance`
+
+---
+
+## 🧠 Skill Depth
+
+```text
+Data Engineering & Pipelines   ████████████████████░░   Senior
+SQL & BigQuery                 ████████████████████░░   Senior
+Snowflake                      ████████████████████░░   Senior
+Python                         ████████████████░░░░░░   Advanced
+GCP (Composer, Dataflow, GCS)  ████████████████░░░░░░   Advanced
+DataOps & Incident Management  ████████████████████░░   Senior
+GenAI / LLM Integration        ████████████░░░░░░░░░░   Actively Growing 🚀
+MCP Servers                    ████████░░░░░░░░░░░░░░   Building Now 🚀
+```
 
 ---
 
 ## 🏅 Certifications
 
-| Certification | Issuer | Date |
+| Certification | Issuer | Status |
 |---|---|---|
-| ☁️ Associate Cloud Engineer | Google Cloud | Nov 2023 – Nov 2026 |
-| 🤖 Introduction to Generative AI | Google | Mar 2024 |
-| 🧠 Introduction to Large Language Models | Google | Mar 2024 |
-| 📊 Azure Data Fundamentals | Microsoft | Jan 2023 |
-| ❄️ Hands-On Essentials – Data Applications | Snowflake | Jul 2022 |
-| ❄️ Hands-On Essentials – Data Warehouse | Snowflake | Jun 2022 |
-| ☁️ AWS Partner Accreditations (Business, Technical, Cloud Economics) | AWS | Apr–May 2022 |
-| 📈 IBM Data Science Specialization | Coursera | Nov 2019 |
-| 🏗️ Lakehouse Fundamentals | Databricks | May 2023 |
+| ☁️ Associate Cloud Engineer | Google Cloud | Active (2023–2026) |
+| 🤖 Introduction to Generative AI | Google | Completed Mar 2024 |
+| 🧠 Introduction to Large Language Models | Google | Completed Mar 2024 |
+| 📊 Azure Data Fundamentals (DP-900) | Microsoft | Completed Jan 2023 |
+| ❄️ Hands-On Essentials – Data Warehouse | Snowflake | Completed Jun 2022 |
+| ❄️ Hands-On Essentials – Data Applications | Snowflake | Completed Jul 2022 |
+| ☁️ AWS Partner Accreditations | AWS | Completed Apr–May 2022 |
+| 📈 IBM Data Science Specialization | Coursera | Completed Nov 2019 |
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Awards & Recognition
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnaramadas&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="Krishna's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaramadas&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+🥇 **GrokStar Award Q3 2023** — Leadership and excellence in cloud cost optimisation across Fortune 500 client engagement
+
+🎖️ **Multiple client appreciations** — DAG monitoring standardisation and incident reduction across 11 business domains
+
+📌 **Selected as Interview Panelist & Learning Coordinator** — contributing to hiring quality and team capability development
 
 ---
 
-## 🤝 Connect with me
+## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna%20Ramadas-blue?logo=linkedin)](https://www.linkedin.com/in/krishna-ramadas-0807121b0/)
 [![Email](https://img.shields.io/badge/Email-krishnarajivnair@gmail.com-red?logo=gmail)](mailto:krishnarajivnair@gmail.com)
+
